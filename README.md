@@ -18,7 +18,7 @@ Bu proje, üretken yapay zekanın gücünü API anahtarı veya ek maliyetler olm
 
 Modelimizi test edebileceğiniz Gradio arayüzümüzden bir kesit:
 
-![Poetry Producer Gen Ai Arayüzü](images/çıktı.png) <!-- Kendi arayüz ekran görüntünüzün doğrudan linkini buraya koyun -->
+![Poetry Producer Gen Ai Arayüzü]("C:\Users\Emirhan\Desktop\images\çıktı.png") <!-- Kendi arayüz ekran görüntünüzün doğrudan linkini buraya koyun -->
 
 **İşte modelimizin ürettiği örnek bir şiir (Model: `Emirhan05/distilgpt2-poetry-generation-ai`):**
 
