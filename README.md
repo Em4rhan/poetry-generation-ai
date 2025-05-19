@@ -18,7 +18,7 @@ Bu proje, üretken yapay zekanın gücünü API anahtarı veya ek maliyetler olm
 
 Modelimizi test edebileceğiniz Gradio arayüzümüzden bir kesit:
 
-![Poetry Producer Gen Ai Arayüzü](https://raw.githubusercontent.com/Emirhan05/distilgpt2-poetry-generation-ai/main/assets/gradio_interface_screenshot.png) <!-- Kendi arayüz ekran görüntünüzün doğrudan linkini buraya koyun -->
+![Poetry Producer Gen Ai Arayüzü](images/çıktı.png) <!-- Kendi arayüz ekran görüntünüzün doğrudan linkini buraya koyun -->
 
 **İşte modelimizin ürettiği örnek bir şiir (Model: `Emirhan05/distilgpt2-poetry-generation-ai`):**
 
@@ -60,7 +60,7 @@ Aşağıdaki grafikler ve yorumlar, projedeki örnek bir modelin (`fine_tuned_po
 
 **1. Eğitim ve Doğrulama Kaybı (Training & Validation Loss) vs. Epoch**
 
-![Eğitim ve Doğrulama Kaybı Grafiği](BURAYA_KAYIP_GRAFIGINIZIN_LINKI_VEYA_DOSYA_YOLU.png)
+![Eğitim ve Doğrulama Kaybı Grafiği](images/loss.png)
 *(**Yer Tutucu:** Bu resmi kendi Eğitim/Doğrulama Kaybı grafiğinizle değiştirin.)*
 
 *   **Ne Gösterir:**
@@ -74,7 +74,7 @@ Aşağıdaki grafikler ve yorumlar, projedeki örnek bir modelin (`fine_tuned_po
 
 **2. Gradient Norm vs. Epoch**
 
-![Gradient Norm Grafiği](BURAYA_GRADIENT_NORM_GRAFIGINIZIN_LINKI_VEYA_DOSYA_YOLU.png)
+![Gradient Norm Grafiği](images/gradiant.png)
 *(**Yer Tutucu:** Bu resmi kendi Gradient Norm grafiğinizle değiştirin.)*
 
 *   **Ne Gösterir:** Eğitim sırasında hesaplanan gradientlerin genel büyüklüğünü (normunu) gösterir. Gradientler, model ağırlıklarının ne kadar güncelleneceğini belirler.
@@ -87,7 +87,7 @@ Aşağıdaki grafikler ve yorumlar, projedeki örnek bir modelin (`fine_tuned_po
 
 **3. Öğrenme Oranı (Learning Rate) vs. Epoch**
 
-![Öğrenme Oranı Grafiği](BURAYA_OGRENME_ORANI_GRAFIGINIZIN_LINKI_VEYA_DOSYA_YOLU.png)
+![Öğrenme Oranı Grafiği](images/öğrenmeoranı.png)
 *(**Yer Tutucu:** Bu resmi kendi Öğrenme Oranı grafiğinizle değiştirin.)*
 
 *   **Ne Gösterir:** Optimize edicinin her adımda model ağırlıklarını ne kadar değiştireceğini belirleyen öğrenme oranının eğitim boyunca nasıl değiştiğini gösterir.
