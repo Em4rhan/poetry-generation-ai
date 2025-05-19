@@ -61,7 +61,6 @@ Aşağıdaki grafikler ve yorumlar, projedeki örnek bir modelin (`fine_tuned_po
 **1. Eğitim ve Doğrulama Kaybı (Training & Validation Loss) vs. Epoch**
 
 ![Eğitim ve Doğrulama Kaybı Grafiği](images/loss.png)
-*(**Yer Tutucu:** Bu resmi kendi Eğitim/Doğrulama Kaybı grafiğinizle değiştirin.)*
 
 *   **Ne Gösterir:**
     *   **Eğitim Kaybı (Training Loss):** Modelin eğitim veri setindeki her bir batch üzerindeki ortalama hatasını gösterir. Epoch'lar ilerledikçe bu değerin düşmesi, modelin eğitim verisini öğrendiğini gösterir.
@@ -75,7 +74,6 @@ Aşağıdaki grafikler ve yorumlar, projedeki örnek bir modelin (`fine_tuned_po
 **2. Gradient Norm vs. Epoch**
 
 ![Gradient Norm Grafiği](images/gradiant.png)
-*(**Yer Tutucu:** Bu resmi kendi Gradient Norm grafiğinizle değiştirin.)*
 
 *   **Ne Gösterir:** Eğitim sırasında hesaplanan gradientlerin genel büyüklüğünü (normunu) gösterir. Gradientler, model ağırlıklarının ne kadar güncelleneceğini belirler.
 *   **İdeal Davranış:**
@@ -88,7 +86,6 @@ Aşağıdaki grafikler ve yorumlar, projedeki örnek bir modelin (`fine_tuned_po
 **3. Öğrenme Oranı (Learning Rate) vs. Epoch**
 
 ![Öğrenme Oranı Grafiği](images/öğrenmeoranı.png)
-*(**Yer Tutucu:** Bu resmi kendi Öğrenme Oranı grafiğinizle değiştirin.)*
 
 *   **Ne Gösterir:** Optimize edicinin her adımda model ağırlıklarını ne kadar değiştireceğini belirleyen öğrenme oranının eğitim boyunca nasıl değiştiğini gösterir.
 *   **İdeal Davranış:**
