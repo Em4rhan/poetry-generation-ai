@@ -163,7 +163,7 @@ Bu projedeki üretken yapay zeka modelinin temelini oluşturan ve şiirsel yeten
 *   **Kaynak:** [Poetry Foundation](https://www.poetryfoundation.org/poems) *(Bu linki, veri setini doğrudan indirebileceğiniz veya hakkında daha fazla bilgi alabileceğiniz spesifik bir Kaggle, GitHub reposu veya web sayfasına yönlendirecek şekilde güncelleyebilirsiniz. Örneğin, eğer Kaggle'dan aldıysanız: `[Poetry Foundation Poems on Kaggle](LINK_TO_KAGGLE_DATASET)`)*
 *   **Açıklama:** Bu veri seti, Poetry Foundation web sitesinden toplanmış geniş bir İngilizce şiir koleksiyonunu içerir. Çeşitli şairlere, dönemlere ve şiir türlerine ait eserleri barındırır.
 *   **Projedeki Konumu:** `data/PoetryFoundationData.csv` *(Veri setinizin projenizdeki tam dosya yolunu buraya yazın.)*
-*   **Format:** Genellikle CSV (Virgülle Ayrılmış Değerler) veya JSON formatında olup, her bir satır veya öğe bir şiiri veya şiirle ilgili meta verileri (şair, başlık vb.) içerir. Bu projede kullanılan `PoetryFoundationData.csv` dosyası, her satırda bir şiirin metnini içeren basit bir yapıya sahiptir. *(Eğer veri setiniz farklı sütunlar içeriyorsa (örneğin 'title', 'author', 'poem_text'), bu bilgiyi burada belirtebilirsiniz.)*
+*   **Format:** Genellikle CSV (Virgülle Ayrılmış Değerler) veya JSON formatında olup, her bir satır veya öğe bir şiiri veya şiirle ilgili meta verileri (şair, başlık vb.) içerir. Bu projede kullanılan `PoetryFoundationData.csv` dosyası, her satırda bir şiirin metnini içeren basit bir yapıya sahiptir. 
 
 **Veri Setinin Önemi ve Model Üzerindeki Etkisi:**
 
@@ -171,7 +171,7 @@ Bu projedeki üretken yapay zeka modelinin temelini oluşturan ve şiirsel yeten
 *   **Tema ve İçerik:** Veri setinde ağırlıklı olarak hangi temaların (aşk, doğa, hüzün vb.) işlendiği, modelin de benzer temalarda şiirler üretme eğiliminde olmasına neden olabilir.
 *   **Yapısal Özellikler:** Mısra uzunlukları, kıta yapıları, kafiye şemaları gibi yapısal özellikler de model tarafından dolaylı olarak öğrenilir.
 
-**Veri Ön İşleme (Opsiyonel Ama Önemli):**
+**Veri Ön İşleme:**
 
 Model eğitiminden önce veri setine genellikle bazı ön işleme adımları uygulanır. Bu projede yapılan temel ön işleme adımları şunlar olabilir:
 
