@@ -236,14 +236,13 @@ Aşağıdaki adımları sırasıyla izleyerek projeyi kurabilirsiniz:
 1.  **Projeyi GitHub'dan Klonlayın:**
     Terminalinizi veya Git Bash'i açın ve projenin dosyalarını bilgisayarınıza indirmek için aşağıdaki komutu çalıştırın:
     ```bash
-    git clone https://github.com/Emirhan05/distilgpt2-poetry-generation-ai.git # DEĞİŞTİRİN: Kendi GitHub kullanıcı adınız ve repo adınızla güncelleyin
-    ```
-    Bu komut, `distilgpt2-poetry-generation-ai` (veya belirttiğiniz repo adı) adında bir klasör oluşturacak ve proje dosyalarını içine indirecektir.
+    git clone https://github.com/Em4rhan/poetry-generation-ai.git 
+    Bu komut, `poetry-generation-ai` (veya belirttiğiniz repo adı) adında bir klasör oluşturacak ve proje dosyalarını içine indirecektir.
 
 2.  **Proje Dizinine Geçin:**
     Klonlama işlemi tamamlandıktan sonra, proje dosyalarının bulunduğu klasöre gidin:
     ```bash
-    cd distilgpt2-poetry-generation-ai 
+    cd poetry-generation-ai
     ```
 
 3.  **(Önerildiyse) Sanal Ortamı Aktifleştirin:**
