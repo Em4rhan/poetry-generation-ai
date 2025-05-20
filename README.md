@@ -36,7 +36,12 @@ Modelimizi test edebileceğiniz Gradio arayüzümüzden bir kesit:
 
 ```text
 --- ÜRETİLEN ŞİİR ---
-i love your eyes, and my heart is filled with joy. My heart is full of praise for you. My heart, the spirit of love, my heart, is full with joy; And you love my heart for ever. Love is full and full with delight, As the heart is content with praise. I love my eyes and my eye, as the heart was content with delight. My eyes and the spirit and the heart are filled with delight; And I love the heart as you love mine, as you desire mine. Love my eyes, the heart of love is full, Full of praise of love; and you love me for ever; Love is true, and full of love.
+i love your eyes, and my heart is filled with joy. My heart is full of praise for you. My heart,
+the spirit of love, my heart, is full with joy; And you love my heart for ever. Love is full and
+full with delight, As the heart is content with praise. I love my eyes and my eye, as the heart was
+content with delight. My eyes and the spirit and the heart are filled with delight; And I love the
+heart as you love mine, as you desire mine. Love my eyes, the heart of love is full, Full of praise
+of love; and you love me for ever; Love is true, and full of love.
 ```
 
 ## 📈 Eğitim Süreci Grafikleri
