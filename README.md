@@ -22,7 +22,7 @@ Modelimizi test edebileceğiniz Gradio arayüzümüzden bir kesit:
 ![çıktı](https://github.com/user-attachments/assets/6fbf95df-bf7d-4d19-9fd3-a14bc456addb)
 
 
-**İşte modelimizin ürettiği örnek bir şiir (Model: `Emirhan05/distilgpt2-poetry-generation-ai`):**
+**İşte modelimizin ürettiği örnek bir şiir:**
 
 **Kullanıcıdan Gelen Prompt:** "i love your eyes"
 
