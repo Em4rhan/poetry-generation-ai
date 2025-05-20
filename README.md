@@ -158,7 +158,6 @@ Bu projedeki üretken yapay zeka modelinin temelini oluşturan ve şiirsel yeten
 **Kullanılan Ana Veri Seti:**
 
 *   **Adı:** Poetry Foundation Poems
-*   **Kaynak:** [Poetry Foundation](https://www.poetryfoundation.org/poems) *(Bu linki, veri setini doğrudan indirebileceğiniz veya hakkında daha fazla bilgi alabileceğiniz spesifik bir Kaggle, GitHub reposu veya web sayfasına yönlendirecek şekilde güncelleyebilirsiniz. Örneğin, eğer Kaggle'dan aldıysanız: `[Poetry Foundation Poems on Kaggle](LINK_TO_KAGGLE_DATASET)`)*
 *   **Açıklama:** Bu veri seti, Poetry Foundation web sitesinden toplanmış geniş bir İngilizce şiir koleksiyonunu içerir. Çeşitli şairlere, dönemlere ve şiir türlerine ait eserleri barındırır.
 *   **Projedeki Konumu:** `data/PoetryFoundationData.csv` *(Veri setinizin projenizdeki tam dosya yolunu buraya yazın.)*
 *   **Format:** Genellikle CSV (Virgülle Ayrılmış Değerler) veya JSON formatında olup, her bir satır veya öğe bir şiiri veya şiirle ilgili meta verileri (şair, başlık vb.) içerir. Bu projede kullanılan `PoetryFoundationData.csv` dosyası, her satırda bir şiirin metnini içeren basit bir yapıya sahiptir. 
@@ -176,7 +175,6 @@ Model eğitiminden önce veri setine genellikle bazı ön işleme adımları uyg
 *   Gereksiz karakterlerin, HTML etiketlerinin veya meta verilerin temizlenmesi.
 *   Şiir metinlerinin birleştirilmesi veya belirli bir formata getirilmesi.
 *   Çok kısa veya anlamsız metinlerin filtrelenmesi.
-*   *(Eğer uyguladıysanız, veri setinize özel diğer ön işleme adımlarını buraya ekleyebilirsiniz.)*
 
 Bu ön işleme adımları, modelin daha temiz ve anlamlı veriler üzerinde eğitilmesine yardımcı olarak performansını artırır.
 
@@ -245,7 +243,7 @@ Aşağıdaki adımları sırasıyla izleyerek projeyi kurabilirsiniz:
 2.  **Proje Dizinine Geçin:**
     Klonlama işlemi tamamlandıktan sonra, proje dosyalarının bulunduğu klasöre gidin:
     ```bash
-    cd distilgpt2-poetry-generation-ai # DEĞİŞTİRİN: Kendi repo klasör adınızla güncelleyin
+    cd distilgpt2-poetry-generation-ai 
     ```
 
 3.  **(Önerildiyse) Sanal Ortamı Aktifleştirin:**
@@ -433,7 +431,7 @@ Bu proje **MIT Lisansı** altında lisanslanmıştır.
 
 MIT Lisansı, yazılımın kullanımını, kopyalanmasını, değiştirilmesini, birleştirilmesini, yayınlanmasını, dağıtılmasını, alt lisanslanmasını ve/veya satılmasını serbest bırakan, izin verici bir özgür yazılım lisansıdır. Tek koşul, telif hakkı bildiriminin ve bu izin bildiriminin yazılımın tüm kopyalarında veya önemli bölümlerinde yer almasıdır.
 
-Lisansın tam metnini projenin kök dizininde bulunan `LICENSE` dosyasında bulabilirsiniz. *(Eğer reponuzda bir `LICENSE` dosyası yoksa, bir tane oluşturup bu kısmı güncelleyebilirsiniz. GitHub, repo oluştururken veya sonradan kolayca MIT lisansı eklemenize olanak tanır.)*
+Lisansın tam metnini projenin kök dizininde bulunan `LICENSE` dosyasında bulabilirsiniz.
 
 ---
 
