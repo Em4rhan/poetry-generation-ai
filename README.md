@@ -24,7 +24,7 @@ Modelimizi test edebileceğiniz Gradio arayüzümüzden bir kesit:
 
 **İşte modelimizin ürettiği örnek bir şiir (Model: `Emirhan05/distilgpt2-poetry-generation-ai`):**
 
-**Kullanıcıdan Gelen Prompt:** "Whispers of the ancient wind"
+**Kullanıcıdan Gelen Prompt:** "i love your eyes"
 
 **Model Parametreleri (Örnek):**
 *   `max_length`: 70
@@ -36,16 +36,7 @@ Modelimizi test edebileceğiniz Gradio arayüzümüzden bir kesit:
 
 ```text
 --- ÜRETİLEN ŞİİR ---
-Whispers of the ancient wind through leaves so green,
-A secret story of the ages, yet unseen.
-It dances light on silent hills, a gentle sigh,
-Beneath the vast and endless arch of azure sky.
-The mountains old, in slumber deep, have heard its call,
-And rivers carve their winding paths, enthralling all.
-A timeless song, a breath of life, it softly blows,
-And in its passage, nature's quiet wisdom grows.
-The stars above, like diamonds bright, begin to gleam,
-Reflecting in the tranquil waters of a dream.
+i love your eyes, and my heart is filled with joy. My heart is full of praise for you. My heart, the spirit of love, my heart, is full with joy; And you love my heart for ever. Love is full and full with delight, As the heart is content with praise. I love my eyes and my eye, as the heart was content with delight. My eyes and the spirit and the heart are filled with delight; And I love the heart as you love mine, as you desire mine. Love my eyes, the heart of love is full, Full of praise of love; and you love me for ever; Love is true, and full of love.
 ```
 
 ## 📈 Eğitim Süreci Grafikleri
